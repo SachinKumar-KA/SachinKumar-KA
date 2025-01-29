@@ -1,29 +1,77 @@
-## Hi there 👋
+# 👋 Hi, I'm Sachin Kumar  
+**QA Test Analyst | Cloud & AI Enthusiast | Python Developer**  
+*Bridging software quality with scalable cloud solutions* 🌟  
 
-# 💫 About Me:
-I am currently studying for AWS solutions architect certificate<br>Foundational Python for coding <br>3 years of experience as a Digital Quality Analyst Manual <br>I am looking to collaborate on building AI apps <br>Fun Fact I learn better via DIY than theory<br>
-
-
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/SachinKumar.ka) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sachin-kumarka) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/sachinkumar_KA) 
-
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![AmazonDynamoDB](https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Steam](https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=SachinKumar-KA&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=SachinKumar-KA&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=SachinKumar-KA&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=SachinKumar-KA&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=SachinKumar-KA&limit=5&theme=dark&combine_all_yearly_contributions=true)
+[![AWS](https://img.shields.io/badge/AWS-Certified%20Solutions%20Architect%20(IN%20PROGRESS)-orange)](https://aws.amazon.com/)
+[![Python](https://img.shields.io/badge/Python-3.x-blue)](https://www.python.org/)
+[![Appium](https://img.shields.io/badge/Appium-Mobile%20Testing-green)](https://appium.io/)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=SachinKumar-KA&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## 🚀 **About Me**  
+I’m a passionate **QA Test Analyst** with **4+ years** of experience in software testing, automation, and defect management. Currently diving deep into **AWS cloud architecture**, **AI-driven automation**, and **Python development** to build robust, scalable solutions.  
+
+🔍 **Current Focus:**  
+- Pursuing **AWS Solutions Architect Certification**.  
+- Exploring **AI agents** for test automation and workflow optimization.  
+- Building **serverless applications** and **ML-integrated QA tools**.  
+
+---
+
+## 🛠️ **Technical Skills**  
+
+| **Category**       | **Tools & Technologies**                                                                 |
+|---------------------|------------------------------------------------------------------------------------------|
+| **Cloud & DevOps**  | AWS (EC2, S3, Lambda) \| CI/CD Pipelines \| GitLab CI \| GitHub \| Docker (Basic)        |
+| **Testing**         | API/UI Testing \| Selenium \| Appium \| JIRA \| Postman \| TestRail                      |
+| **Databases**       | SQL (MS SQL Server, Oracle) \| Mainframe \| MongoDB (Learning)                          |
+| **Languages**       | Python \| Shell Scripting \| SQL \| JavaScript (Basic)                                   |
+| **Frameworks**      | Agile/Scrum \| SDLC/STLC \| Pytest (Learning)                                            |
+
+---
+
+## 💼 **Highlighted Projects**  
+
+### **1. SiriusXM Native App Testing**  
+**Role:** Test Analyst | **Tools:** GitLab CI, JIRA, SQL  
+- Led end-to-end testing (Functional, Regression, Sanity) for mobile apps across Android/iOS.  
+- Automated CI/CD workflows to trigger builds and deployments, reducing manual effort by **30%**.  
+- Managed defect lifecycle using JIRA, ensuring **95%+ defect closure rate** before releases.  
+
+### **2. Promo Code Validation System**  
+**Role:** Test Analyst | **Tools:** JIRA, Adobe Analyst, SQL  
+- Designed test scenarios for promo code activation/expiry logic in Ontario/Quebec markets.  
+- Integrated SQL queries with Adobe Analyst to validate user activity data and fix performance bottlenecks.  
+- Streamlined UAT processes, cutting pre-launch validation time by **20%**.  
+
+### **3. AI-Driven Test Automation (Ongoing)**  
+**Role:** Developer | **Tools:** Python, Selenium, TensorFlow (Learning)  
+- Experimenting with AI agents to auto-generate test cases and predict regression hotspots.  
+- Building a Python framework to integrate ML models with Selenium for dynamic testing.  
+
+---
+
+## 📚 **Certifications & Learning**  
+- **AWS Solutions Architect** (In Progress)  
+- **Appium Mobile Testing** - [Credentials](https://example.com)  
+- **Salesforce Admin Certification Prep** - [Credentials](https://example.com)  
+- **Agile Testing** - [Credentials](https://example.com)  
+
+---
+
+## 🌱 **Open Source & Collaboration**  
+- Contributing to Python libraries for test automation.  
+- Developing reusable GitHub Actions for CI/CD pipelines.  
+- **Let’s collaborate!** Open to projects in AI/ML, cloud automation, or QA tooling.  
+
+---
+
+## 📫 **Connect With Me**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Sachin_Kumar-blue)](https://linkedin.com/in/[your-profile])  
+[![Email](https://img.shields.io/badge/Email-sachink573@gmail.com-red)](mailto:sachink573@gmail.com)  
+
+---
+
+**Quote:**  
+*"From ensuring software quality to architecting scalable cloud solutions – turning curiosity into code."* 🚀  
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
